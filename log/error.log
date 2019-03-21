@@ -1,0 +1,9 @@
+2019-03-18/11:04:56 [ERR] router/middleware/auth.go-38 not found user_id
+2019-03-18/11:05:27 [ERR] router/middleware/auth.go-38 not found user_id
+2019-03-18/11:06:27 [ERR] router/middleware/auth.go-38 not found user_id
+2019-03-18/11:08:18 [ERR] router/middleware/auth.go-38 not found user_id
+2019-03-18/11:42:04 [ERR] router/middleware/auth.go-41 not found user_id: 1
+2019-03-18/11:43:26 [ERR] router/middleware/auth.go-41 not found user_id: 1
+2019-03-18/11:45:04 [ERR] router/middleware/auth.go-41 not found user_id: 1
+2019-03-18/13:14:16 [ERR] router/middleware/auth.go-41 not found user_id: 1
+2019-03-18/13:18:10 [ERR] router/middleware/auth.go-42 not found user_id: 1

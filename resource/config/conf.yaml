@@ -1,0 +1,19 @@
+runmode: debug
+port: :9999
+name: baserestserver
+gormlog: true
+db:
+  type: mysql
+  dbname: db_wallpaper
+#  addr: 127.0.0.1:3306
+  addr: host.docker.internal
+  username: root
+  password: 123456
+redis:
+#  host: "127.0.0.1"
+  host: "host.docker.internal"
+  port: 6379
+  password: ""
+jwt:
+  expiration: 604800
+  private_key: 38WpK7da31eY04S91cB8732N8LAb83E9O
